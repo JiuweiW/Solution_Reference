@@ -4,3 +4,5 @@ Depth First Search(DFS)
 Breath First Search(BFS)
 
 Backtracking
+Dynamic Programming
+Recursion
