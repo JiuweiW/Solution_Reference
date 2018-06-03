@@ -3,6 +3,7 @@ This is a git file for testing.
 Depth First Search(DFS)
 Breath First Search(BFS)
 
-Backtracking
-Dynamic Programming
-Recursion
+Backtracking （回溯）
+Dynamic Programming （动态规划）
+Recursion （递归）
+iteration（迭代）
