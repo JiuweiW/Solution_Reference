@@ -9,3 +9,5 @@ Recursion （递归）
 iteration（迭代）
 
 Execution Context & Execution Context Stack in JavaScript
+
+JS 4种调用模式
