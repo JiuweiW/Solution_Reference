@@ -3,3 +3,6 @@
 
 8/17
 1. start project 2 and finish it at the end of this week.
+
+8/18
+1. 跑步2小时
