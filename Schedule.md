@@ -43,3 +43,6 @@
 
 8/29
 1. 继续做坑爹项目，再不行放弃掉
+8/30
+1. dont be lazy, dont wnat to do anything
+
