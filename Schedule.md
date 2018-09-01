@@ -46,3 +46,5 @@
 8/30
 1.be lazy, dont wnat to do anything
 
+8/31
+最近发现自己的颈部不行很疼，都抬不起头了。
