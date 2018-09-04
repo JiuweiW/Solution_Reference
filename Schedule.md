@@ -6,3 +6,6 @@
 
 9/3
 1. doing project three and will finish it tmr
+
+9/4
+1. continue to finish project 3
