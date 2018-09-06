@@ -9,3 +9,6 @@
 
 9/4
 1. continue to finish project 3
+
+9/5
+1.拔完两颗智慧齿，剧痛，休息中。。最好能学习几小时
