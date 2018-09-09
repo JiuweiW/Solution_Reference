@@ -18,3 +18,6 @@
 
 9/7
 1. tuifei
+
+9/8
+1. shopping and studying
