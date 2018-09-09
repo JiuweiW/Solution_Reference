@@ -21,3 +21,6 @@
 
 9/8
 1. shopping and studying
+
+9/9
+1. sickness
