@@ -24,3 +24,5 @@
 
 9/9
 1. sickness
+9/10
+1. previous two project failed, doing another project hoping everything go well
