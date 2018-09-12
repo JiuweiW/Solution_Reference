@@ -26,3 +26,5 @@
 1. sickness
 9/10
 1. previous two project failed, doing another project hoping everything go well
+9/11
+1. get stucked by project, feel saddddddddddddddddddddddddddddddddd
