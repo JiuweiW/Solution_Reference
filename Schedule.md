@@ -28,3 +28,6 @@
 1. previous two project failed, doing another project hoping everything go well
 9/11
 1. get stucked by project, feel saddddddddddddddddddddddddddddddddd
+
+9/12
+1. fixing old projects and looking for react project
