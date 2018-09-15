@@ -34,3 +34,6 @@
 
 9/13
 1. fix project and found another new react project
+
+9/14
+1. continue to do react project
