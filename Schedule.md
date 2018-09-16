@@ -37,3 +37,6 @@
 
 9/14
 1. continue to do react project
+
+9/15
+1. sick and continue to do project
