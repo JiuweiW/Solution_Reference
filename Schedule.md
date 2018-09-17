@@ -40,3 +40,6 @@
 
 9/15
 1. sick and continue to do project
+
+9/16
+1. continue to do project
