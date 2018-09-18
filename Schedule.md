@@ -43,3 +43,6 @@
 
 9/16
 1. continue to do project
+
+9/17
+1. renew driver license
