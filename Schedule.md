@@ -46,3 +46,6 @@
 
 9/17
 1. renew driver license
+
+9/18
+1. BUGS in project................WANNA Cry!
