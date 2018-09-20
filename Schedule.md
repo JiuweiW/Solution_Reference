@@ -49,3 +49,7 @@
 
 9/18
 1. BUGS in project................WANNA Cry!
+
+9/19
+1. restart learning js and trying to fix bug
+2. try to finish first draft of resume
