@@ -53,3 +53,6 @@
 9/19
 1. restart learning js and trying to fix bug
 2. try to finish first draft of resume
+
+9/20
+1. upload project and fix some minor problems
