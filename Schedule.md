@@ -56,3 +56,6 @@
 
 9/20
 1. upload project and fix some minor problems
+
+9/22
+1. still fix resume and update linkedin profile
