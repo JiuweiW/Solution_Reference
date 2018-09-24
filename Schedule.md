@@ -59,3 +59,6 @@
 
 9/22
 1. still fix resume and update linkedin profile
+
+9/23
+1. start to learn js
