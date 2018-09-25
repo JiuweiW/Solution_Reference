@@ -62,3 +62,5 @@
 
 9/23
 1. start to learn js
+9/24
+1. duoluo and study.............guilty
