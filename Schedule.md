@@ -64,3 +64,5 @@
 1. start to learn js
 9/24
 1. duoluo and study.............guilty
+9/25
+1. disappointed in myself
