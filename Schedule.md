@@ -70,3 +70,6 @@
 9/26
 1. DOM
 2. Review advanced JS
+
+9/27
+1. learn DOM
