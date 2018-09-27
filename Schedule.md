@@ -66,3 +66,7 @@
 1. duoluo and study.............guilty
 9/25
 1. disappointed in myself
+
+9/26
+1. DOM
+2. Review advanced JS
