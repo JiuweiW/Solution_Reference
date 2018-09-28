@@ -73,3 +73,6 @@
 
 9/27
 1. learn DOM
+
+9/28
+1. DOM Video
