@@ -76,3 +76,6 @@
 
 9/28
 1. DOM Video
+
+9/29
+1. finished DOM by end of today. Review DOM and advanced JS
