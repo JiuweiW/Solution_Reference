@@ -79,3 +79,6 @@
 
 9/29
 1. finished DOM by end of today. Review DOM and advanced JS
+
+9/30
+1.study jQuery
