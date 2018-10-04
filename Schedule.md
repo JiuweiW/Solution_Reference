@@ -3,3 +3,5 @@
 
 10/3
 - Review and Do examples
+10/4
+- Learn ES6
