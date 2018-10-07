@@ -12,3 +12,6 @@
 
 10/6
 - get addicted of tv shows
+
+10/7
+- 堕落该返回正途
