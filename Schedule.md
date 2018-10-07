@@ -9,3 +9,6 @@
 
 10/5
 - play tennis and continue to learn ES6
+
+10/6
+- get addicted of tv shows
