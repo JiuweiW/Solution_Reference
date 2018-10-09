@@ -19,3 +19,7 @@
 10/8
 
 - css3 & review es6
+
+10/9
+
+- css 3 continue and es 6
