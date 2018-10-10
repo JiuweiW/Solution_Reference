@@ -23,3 +23,7 @@
 10/9
 
 - css 3 continue and es 6
+
+10/10
+
+- headache
