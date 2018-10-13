@@ -35,3 +35,7 @@
 10/12
 
 - keep working
+
+10/13
+
+- do exerices
