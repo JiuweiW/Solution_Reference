@@ -5,3 +5,7 @@
 10/17
 
 - flu shot
+
+10/19
+
+- adjust daily schedule and relax to get rid of my anxiety
