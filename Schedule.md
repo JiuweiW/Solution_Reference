@@ -9,3 +9,7 @@
 10/19
 
 - adjust daily schedule and relax to get rid of my anxiety
+
+10/20
+
+- take a rest
