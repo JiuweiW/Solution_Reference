@@ -21,3 +21,7 @@
 10/22
 
 - replan
+
+10/23
+
+- It is not the mountain we conquer but ourselves (我们要征服的不是高山，而是自己)
