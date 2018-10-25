@@ -25,3 +25,7 @@
 10/23
 
 - It is not the mountain we conquer but ourselves (我们要征服的不是高山，而是自己)
+
+10/24
+
+- millions of thought in mind
