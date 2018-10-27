@@ -29,3 +29,7 @@
 10/24
 
 - millions of thought in mind
+
+10/26
+
+- can not calm down! super nervous
