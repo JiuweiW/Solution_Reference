@@ -33,3 +33,7 @@
 10/26
 
 - can not calm down! super nervous
+
+10/30
+
+- ehhhhhhhhhhhhhh, sick
