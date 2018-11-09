@@ -5,3 +5,7 @@
 11/7
 
 - feel lost
+
+11/8
+
+- give up == no dream
