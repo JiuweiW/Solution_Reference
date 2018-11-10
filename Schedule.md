@@ -9,3 +9,7 @@
 11/8
 
 - give up == no dream
+
+11/10
+
+- this is other's life, stop interfering with my life.
