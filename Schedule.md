@@ -13,3 +13,7 @@
 11/10
 
 - this is other's life, stop interfering with my life.
+
+11/11
+
+- new day
