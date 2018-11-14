@@ -21,3 +21,7 @@
 11/12
 
 - noise
+
+11/13
+
+- Grid and JS Prototype
