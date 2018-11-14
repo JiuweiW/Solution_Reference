@@ -25,3 +25,7 @@
 11/13
 
 - Grid and JS Prototype
+
+11/14
+
+- review DOM
