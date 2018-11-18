@@ -37,3 +37,7 @@
 11/16
 
 - xinshi
+
+11/17
+
+- got new laptop table for bed
