@@ -41,3 +41,7 @@
 11/17
 
 - got new laptop table for bed
+
+11/18
+
+- 痴迷读者
