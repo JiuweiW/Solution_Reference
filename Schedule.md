@@ -49,3 +49,7 @@
 11/20
 
 - completed ES 6 Part One
+
+11/21
+
+- completed ES 6 Part Two
