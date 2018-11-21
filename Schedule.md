@@ -45,3 +45,7 @@
 11/18
 
 - 痴迷读者
+
+11/20
+
+- completed ES 6 Part One
