@@ -53,3 +53,7 @@
 11/21
 
 - completed ES 6 Part Two
+
+11/22
+
+- continue Part Two
