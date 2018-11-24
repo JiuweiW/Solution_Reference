@@ -57,3 +57,7 @@
 11/22
 
 - continue Part Two
+
+11/23
+
+- completed webpack
