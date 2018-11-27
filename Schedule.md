@@ -69,3 +69,7 @@
 11/25
 
 -- painful
+
+11/26
+
+- download react video and start to learn chapter 1-2
