@@ -73,3 +73,6 @@
 11/26
 
 - download react video and start to learn chapter 1-2
+
+11/27
+- react
