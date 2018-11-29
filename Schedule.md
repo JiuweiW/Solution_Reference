@@ -80,3 +80,7 @@
 11/28
 
 - react chapter 5
+
+11/29
+
+- react chapter 6 and redo exercise
