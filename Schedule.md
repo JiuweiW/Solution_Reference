@@ -12,3 +12,6 @@
 - React Official Document
 - DOM Continued
 - LC (LinkedList)
+
+12/5
+- stomachache
