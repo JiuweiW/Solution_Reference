@@ -15,3 +15,8 @@
 
 12/5
 - stomachache
+
+
+12/6
+- leetcode
+- Dom
