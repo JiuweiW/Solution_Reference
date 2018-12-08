@@ -20,3 +20,7 @@
 12/6
 - leetcode
 - Dom
+
+12/7
+
+- want a normal life
