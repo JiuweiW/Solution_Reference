@@ -24,3 +24,6 @@
 12/7
 
 - want a normal life
+
+12/9
+- complete LinkedList, but need more practice and redo questions
