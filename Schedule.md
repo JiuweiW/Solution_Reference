@@ -5,3 +5,7 @@
 12/15
 
 - a failure
+
+12/16
+
+- i'm doomed
