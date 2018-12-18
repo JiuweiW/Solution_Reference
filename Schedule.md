@@ -1,15 +1,3 @@
-12/11
-
-- remake schedule for next few days, hope I can achevie it 
-
-12/15
-
-- a failure
-
-12/16
-
-- i'm doomed
-
 12/17
 
-- daka
+- 又完美的浪费一天，真想哭。
