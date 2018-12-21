@@ -9,3 +9,7 @@
 12/19
 
 - 被自己的懒惰打败
+
+12/20
+
+- dont want to do anything, but i must force myself to do something. Fighting!
