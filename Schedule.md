@@ -13,3 +13,7 @@
 12/20
 
 - dont want to do anything, but i must force myself to do something. Fighting!
+
+12/21
+
+- celebrate brother's 18th birthday!
