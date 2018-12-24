@@ -17,3 +17,7 @@
 12/21
 
 - celebrate brother's 18th birthday!
+
+12/23
+
+- wasted money and felt upset.........
