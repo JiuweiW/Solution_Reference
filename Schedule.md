@@ -5,3 +5,7 @@
 12/27
 
 - great drama and love it
+
+12/28
+
+- project is still incomplete..
