@@ -9,3 +9,7 @@
 12/28
 
 - project is still incomplete..
+
+12/30
+
+- fixed computer 
