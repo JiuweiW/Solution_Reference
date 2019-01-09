@@ -1,4 +1,3 @@
+1/8/19
 
-1/6/19
-
-- complete 5 lc
+- very lazy and dont want to do anythhing
