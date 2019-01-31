@@ -14,3 +14,7 @@
 - 1/29
 
 - please write a letter of recommendation for me
+
+1/30
+
+- add supplement information
