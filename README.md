@@ -408,7 +408,7 @@ Problem # | Difficulty | Rate | Comment
 391
 392
 393
-394
+394|M|3|VIP, one template
 395
 396
 397
