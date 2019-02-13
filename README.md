@@ -3,7 +3,7 @@
 
 Problem # | Difficulty | Rate | Comment
 :-|:-:|:-:|-:
-1
+1 | E | 1 | Two Pointer, HashMap
 2
 3
 4
