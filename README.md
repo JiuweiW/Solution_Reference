@@ -225,7 +225,7 @@ Problem # | Difficulty | Rate | Comment
 212
 213
 214
-215
+215|M|4|Super VIP, quick selection and PriorityQueue
 216
 217
 218
@@ -361,7 +361,7 @@ Problem # | Difficulty | Rate | Comment
 344
 345
 346
-347
+347|M|4|Super VIP, PriorityQueue, TreeMap, Bucket Sort
 348
 349
 350
@@ -399,7 +399,7 @@ Problem # | Difficulty | Rate | Comment
 382
 383
 384
-385
+385|M|4|VIP, IDK
 386
 387
 388
