@@ -107,7 +107,7 @@ Problem # | Difficulty | Rate | Comment
 
 
 Problem # | Difficulty | Rate | Comment
-:-|:-:|:-:|-:
+:-|:-:|:-:|:-:
 101
 102
 103
@@ -143,7 +143,7 @@ Problem # | Difficulty | Rate | Comment
 133
 134
 135
-136
+136|E|1|^ operator
 137
 138
 139
@@ -332,7 +332,7 @@ Problem # | Difficulty | Rate | Comment
 315
 316
 317
-318
+318|M|3| bitwise operator
 319
 320
 321
@@ -403,7 +403,7 @@ Problem # | Difficulty | Rate | Comment
 386
 387
 388
-389
+389|E|1|bitwise(^)operator
 390
 391
 392
