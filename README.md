@@ -2,7 +2,7 @@
 
 
 Problem # | Difficulty | Rate | Comment
-:-|:-:|:-:|-:
+:-|:-:|:-:|:-:
 1 | E | 1 | Two Pointer, HashMap
 2
 3
@@ -314,7 +314,7 @@ Problem # | Difficulty | Rate | Comment
 
 
 Problem # | Difficulty | Rate | Comment
-:-|:-:|:-:|-:
+:-|:-:|:-:|:-:
 301
 302
 303
@@ -355,7 +355,7 @@ Problem # | Difficulty | Rate | Comment
 338
 339
 340
-341
+341|M|3|Stack
 342
 343
 344
