@@ -158,7 +158,7 @@ Problem # | Difficulty | Rate | Comment
 148
 149
 150
-151
+151|M|1|StringBuilder
 152
 153
 154
@@ -358,8 +358,8 @@ Problem # | Difficulty | Rate | Comment
 341|M|3|Stack
 342
 343
-344
-345
+344|E|1|Two Pointer, Swap
+345|E|1|swap
 346
 347|M|4|Super VIP, PriorityQueue, TreeMap, Bucket Sort
 348
