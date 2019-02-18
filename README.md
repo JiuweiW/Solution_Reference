@@ -193,7 +193,7 @@ Problem # | Difficulty | Rate | Comment
 183
 184
 185
-186
+186|M|3|similar to 151
 187
 188
 189
