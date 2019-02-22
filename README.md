@@ -6,7 +6,7 @@ Problem # | Difficulty | Rate | Comment
 1 | E | 1 | Two Pointer, HashMap
 2 | H
 3 | H
-4
+4 | H
 5
 6
 7
