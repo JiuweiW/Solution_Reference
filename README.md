@@ -28,7 +28,7 @@ Problem # | Difficulty | Rate | Comment
 23
 24
 25
-26
+26 | E
 27
 28
 29
