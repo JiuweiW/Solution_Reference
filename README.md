@@ -20,7 +20,7 @@ Problem # | Difficulty | Rate | Comment
 15
 16
 17
-18
+18 | H
 19
 20
 21
